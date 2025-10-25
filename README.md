@@ -1,6 +1,7 @@
-# Portfolio of projects by Alejandro Arango Giraldo
+# Portfolio of projects - Alejandro Arango Giraldo
 
 **Short bio:** Mechanical Engineer with emphasis in Data Science from Universidad EAFIT with experience as a data analyst in Bancolombia.
+
 **Description:** This portfolio compiles academic, technical, and applied projects developed during my undergraduate studies and complementary training in Data Science, Artificial Intelligence, Machine Learning, and Computing.
 
 ## Projects:
