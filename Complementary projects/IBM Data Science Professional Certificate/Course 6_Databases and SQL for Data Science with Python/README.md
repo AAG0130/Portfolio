@@ -40,4 +40,5 @@ Documentation within this notebook was improved and additional explanatory comme
 
 ## Notes & reproducibility
 - The notebook downloads CSV files from public course URLs. To run offline, download the CSVs and modify the `pd.read_csv(...)` calls to point to local files.
+- The notebook requires `ipython-sql` and `sqlalchemy` packages. Ensure they are installed (see `requirements.txt`).
 - The database file `FinalDB.db` will be created in the notebook's working directory.
