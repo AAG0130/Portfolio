@@ -1,7 +1,7 @@
 # House Prices Prediction — Model Development and Evaluation (Polynomial & Ridge)
 
 ## Project summary
-This notebook loads a housing dataset with missing values, performs basic data cleaning and exploratory analysis, and builds regression models (linear, polynomial, and Ridge) to predict house prices. Visualizations and correlation analyses assist with feature selection and model interpretation.
+This notebook explores housing price data from King County, USA. Performs data wrangling and exploratory data analysis, builds linear and polynomial regression models (including a Ridge variant), and evaluates model performance using R².
 
 **Important notice:**  
 Documentation within this notebook was improved and additional explanatory comments were added to facilitate reproducibility and reading. The **original course assignment design and associated intellectual property belong exclusively to IBM Corporation**. The code logic of the original assignment was kept intact except for minimal corrections necessary to ensure the notebook runs without errors.
