@@ -1,7 +1,7 @@
-# Weather Data — Model Comparison (Regression & Classification)
+# Weather ML Models — Classification & Regression Report
 
 ## Project summary
-This notebook loads the Weather_Data CSV, preprocesses categorical variables with one-hot encoding, and trains multiple models (Linear Regression, KNN, Decision Tree, Logistic Regression, SVM) to predict rainfall. The notebook reports regression and classification metrics to compare model performance.
+This notebook loads an Australian Government's Bureau of Meteorology dataset, performs preprocessing (one-hot encoding and numeric casting), trains several models (Linear Regression, KNN, Decision Tree, Logistic Regression, SVM) and reports evaluation metrics (MAE, MSE, R2 for regression; Accuracy, Jaccard, F1, LogLoss for classification).
 
 **Important notice:**  
 Documentation within this notebook was improved and additional explanatory comments were added to facilitate reproducibility and reading. The **original course assignment design and associated intellectual property belong exclusively to IBM Corporation**. The code logic of the original assignment was kept intact except for minimal corrections necessary to ensure the notebook runs without errors.
