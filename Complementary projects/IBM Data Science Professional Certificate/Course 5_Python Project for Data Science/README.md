@@ -1,7 +1,7 @@
-# Stock & Revenue Analysis — Tesla and GameStop
+# Historical Stock Price and Revenue Analysis — Tesla & GameStop
 
 ## Project summary
-This notebook fetches historical stock price data using `yfinance` and quarterly revenue tables (HTML) for Tesla and GameStop. It cleans and aligns both sources and generates interactive visualizations (price vs revenue) using Plotly.
+This notebook downloads historical stock price data (via `yfinance`) and quarterly revenue tables (from provided HTML pages), cleans the data, and visualizes price vs revenue for Tesla and GameStop.
 
 **Important notice:** 
 
