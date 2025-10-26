@@ -1,7 +1,7 @@
-# Automobile Sales Statistics Dashboard (Dash)
+# Automobile Sales Dashboard — Interactive Dash App
 
 ## Project summary
-This Dash app provides an interactive dashboard to analyze historical automobile sales. Users can select either yearly statistics or recession-period statistics and explore visualizations such as time-series of average sales, vehicle-type comparisons, advertising expenditure shares, and the effect of unemployment on sales.
+This notebook builds a Dash interactive dashboard to explore historical automobile sales, showing both yearly statistics and recession-period analyses with multiple interactive visualizations.
 
 **Important notice:**  
 Documentation within this notebook was improved and additional explanatory comments were added to facilitate reproducibility and reading. The **original course assignment design and associated intellectual property belong exclusively to IBM Corporation**. The code logic of the original assignment was kept intact except for minimal corrections necessary to ensure the notebook runs without errors.
