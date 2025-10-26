@@ -9,7 +9,7 @@ Documentation within this notebook was improved and additional explanatory comme
 ---
 
 ## Files in this folder
-- `House_Price_Prediction.ipynb`.
+- `House_Price_Prediction.ipynb` — Notebook.
 - `requirements.txt` — Python packages required to run the notebook.
 
 ---
