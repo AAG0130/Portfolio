@@ -1,7 +1,7 @@
-# Part 1: SpaceX Launches — Enriched Dataset (API calls)
+# Part 1: SpaceX Launches — Data Enrichment & Dataset Preparation
 
-## Project summary
-This notebook fetches SpaceX past launches, enriches them via the SpaceX public API (rockets, payloads, launchpads, cores), and constructs a cleaned, launch-level dataset with features useful for analysis (booster version, payload mass, orbit, launch site, reuse metrics, geolocation, etc.). The enriched dataset is exported as `dataset_part_1.csv`.
+## Project summary 
+This notebook retrieves historical SpaceX launch records, enriches them by calling SpaceX API endpoints (rockets, payloads, launchpads, cores), and produces a clean CSV dataset containing one-row-per-launch with key features (booster version, payload mass, orbit, launch site, core reuse stats, geolocation, etc.).
 
 **Important notice:**  
 Documentation within this notebook was improved and additional explanatory comments were added to facilitate reproducibility and reading. The **original course assignment design and associated intellectual property belong exclusively to IBM Corporation**. The code logic of the original assignment was kept intact except for minimal corrections necessary to ensure the notebook runs without errors.
