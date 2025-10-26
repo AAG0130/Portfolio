@@ -10,7 +10,7 @@ Documentation within this notebook was improved and additional explanatory comme
 
 ## Files in this folder
 - `Automobile_Statistics_Dashboard.ipynb` — Notebook containing the Dash app.  
-- `Automobile_Statistics_Dashboard_App.py` — (optional) Convert the Dash app cell(s) to a standalone script for deployment.  
+- `Automobile_Statistics_Dashboard_App.py` — Standalone script for deployment.  
 - `requirements.txt` — Python packages required to run the app.
 
 ---
