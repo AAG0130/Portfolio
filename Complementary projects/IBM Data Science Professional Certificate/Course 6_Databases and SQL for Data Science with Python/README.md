@@ -29,7 +29,7 @@ Documentation within this notebook was improved and additional explanatory comme
 
 3. Start Jupyter Notebook:
 
-`jupyter notebook Chicago_Final_Module_Notebook.ipynb`
+`jupyter notebook Chicago_Data_Portal_Exploration.ipynb`
 
 4. Run the notebook cells from top to bottom. The notebook will:
 - Create (or overwrite) `FinalDB.db` in the working directory,
