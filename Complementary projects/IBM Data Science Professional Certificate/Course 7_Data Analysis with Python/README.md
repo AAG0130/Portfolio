@@ -28,7 +28,7 @@ Documentation within this notebook was improved and additional explanatory comme
 
 3. Start Jupyter Notebook:
 
-`jupyter notebook Chicago_Final_Module_Notebook.ipynb`
+`jupyter notebook House_Price_Prediction.ipynb`
 
 4. Run the notebook cells from top to bottom. The notebook will:
 
