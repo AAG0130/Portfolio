@@ -30,7 +30,7 @@ Documentation within this notebook was improved and additional explanatory comme
 
 `jupyter notebook Australia_Wildfire_Analysis.ipynb`
 
-4. Run the notebook cells from top to bottom. The notebook will:
+4. Run the notebook cells from top to bottom.
 
 ---
 
