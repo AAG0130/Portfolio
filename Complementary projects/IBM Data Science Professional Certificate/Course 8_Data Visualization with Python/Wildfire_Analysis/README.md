@@ -9,7 +9,7 @@ Documentation within this notebook was improved and additional explanatory comme
 ---
 
 ## Files in this folder
-- `Australia_Wildfire_Analysis.ipynb` — Notebook (documentation added; original code preserved).
+- `Australia_Wildfire_Analysis.ipynb` — Notebook.
 - `requirements.txt` — Python packages required to run the notebook.
 
 ---
