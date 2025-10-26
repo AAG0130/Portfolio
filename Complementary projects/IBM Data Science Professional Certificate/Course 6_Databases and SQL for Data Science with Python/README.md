@@ -10,7 +10,7 @@ Documentation within this notebook was improved and additional explanatory comme
 ---
 
 ## Files in this folder
-- `Chicago_Data_Portal_Exploration.ipynb` — The notebook.
+- `Chicago_Data_Portal_Exploration.ipynb` — Notebook.
 - `requirements.txt` — Python packages required to run the notebook.
 
 ---
