@@ -10,7 +10,7 @@ Documentation within this notebook was improved and additional explanatory comme
 ---
 
 ## Files in this folder
-- `Stock_Revenue_Analysis.ipynb` — The notebook (cleaned documentation; original code logic preserved except for minimal fixes).
+- `Stock_Revenue_Analysis.ipynb` — Notebook.
 - `requirements.txt` — Python packages required to run the notebook.
 
 ---
