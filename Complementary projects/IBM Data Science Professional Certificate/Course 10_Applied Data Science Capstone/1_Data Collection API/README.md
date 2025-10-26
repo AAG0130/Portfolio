@@ -9,7 +9,7 @@ Documentation within this notebook was improved and additional explanatory comme
 ---
 
 ## Files in this folder
-- `Data_Collection_API.ipynb` — Notebook.
+- `1_Data_Collection_API.ipynb` — Notebook.
 - `dataset_part_1.csv` — Enriched CSV (generated after running the notebook).
 - `requirements.txt` — Python packages required to run the notebook.
 
@@ -29,7 +29,7 @@ Documentation within this notebook was improved and additional explanatory comme
 
 3. Start Jupyter Notebook:
 
-`jupyter notebook Data_Collection_API.ipynb`
+`jupyter notebook 1_Data_Collection_API.ipynb`
 
 4. Run cells top-to-bottom. The notebook will:
 
