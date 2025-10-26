@@ -1,7 +1,7 @@
 # Wildfire Data Exploration & Visualization
 
 ## Project summary
-This notebook loads a historical wildfires dataset from Australia, derives Year and Month features, and performs temporal and regional exploratory analyses. It visualizes trends (estimated fire area), brightness distributions, relationships between radiative power and confidence, and produces a Folium map marking Australian regions.
+This notebook loads a historical wildfires dataset from Australia, performs basic time-series and regional exploratory analysis, visualizes distributions and trends, and creates a Folium map with region markers.
 
 **Important notice:**  
 Documentation within this notebook was improved and additional explanatory comments were added to facilitate reproducibility and reading. The **original course assignment design and associated intellectual property belong exclusively to IBM Corporation**. The code logic of the original assignment was kept intact except for minimal corrections necessary to ensure the notebook runs without errors.
