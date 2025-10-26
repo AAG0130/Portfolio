@@ -1,6 +1,6 @@
 # Part 2: SpaceX Launches — Web Scraping & Table Extraction from Wikipedia
 
-**Short description:**  
+## Project summary 
 This notebook scrapes a static Wikipedia revision of the "List of Falcon 9 and Falcon Heavy launches", extracts structured launch information (flight number, date/time, booster version, launch site, payload, mass, orbit, customer, outcome, landing status), and saves the cleaned table as CSV files.
 
 **Important notice:**  
