@@ -35,6 +35,4 @@ Documentation within this notebook was improved and additional explanatory comme
 ---
 
 ## Notes & reproducibility
-- The notebook uses from js import fetch and await fetch(...) which require a JavaScript-enabled notebook environment (e.g., JupyterLite/pyodide). For local CPython environments, you can replace the fetch block with: `df = pd.read_csv(URL)`
 - If the Folium map does not render inline in your environment, save it with Aus_map.save("aus_map.html") and open that file in a browser.
-- If you choose to modify the fetch approach for local execution, the rest of the code should work after installing the packages in requirements.txt.
