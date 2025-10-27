@@ -10,7 +10,7 @@ Documentation within this notebook was improved and additional explanatory comme
 
 ## Files in this folder
 - `2_Web_Scraping.ipynb` — Notebook.
-- `dataset_part_2.csv` — CSV produced by the scraping (after running).
+- `spacex_web_scraped.csv` — CSV produced by the scraping (after running).
 - `requirements.txt` — Python packages required to run the notebook.
 
 ---
@@ -35,7 +35,7 @@ Documentation within this notebook was improved and additional explanatory comme
 
 * Fetch the static Wikipedia revision HTML,
 * Parse the launch tables and extract fields,
-* Save the result as dataset_part_2.csv.
+* Save the result as spacex_web_scraped.csv.
 
 ## Notes & reproducibility
 
