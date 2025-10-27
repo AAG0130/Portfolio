@@ -1,7 +1,7 @@
 # Part 3: SpaceX Launches — Data Wrangling
 
 ## Project summary 
-This notebook loads the previously created SpaceX enriched dataset (`dataset_part_1.csv`), performs Exploratory Data Analysis (missing values, datatypes, value counts), defines a binary landing class from launch outcomes, and saves the processed table as `dataset_part_3.csv`.
+This notebook loads the previously created SpaceX enriched dataset (`dataset_part_1.csv`), performs Exploratory Data Analysis (missing values, datatypes, value counts), defines a binary landing class from launch outcomes, and saves the processed table as `dataset_part_2.csv`.
 
 **Important notice:**  
 Documentation within this notebook was improved and additional explanatory comments were added to facilitate reproducibility and reading. The **original course assignment design and associated intellectual property belong exclusively to IBM Corporation**. The code logic of the original assignment was kept intact except for minimal corrections necessary to ensure the notebook runs without errors.
@@ -10,7 +10,7 @@ Documentation within this notebook was improved and additional explanatory comme
 
 ## Files in this folder
 - `3_Data_Wrangling.ipynb` — Notebook.  
-- `dataset_part_3.csv` — Processed CSV (generated after running the notebook).  
+- `dataset_part_2.csv` — Processed CSV (generated after running the notebook).  
 - `requirements.txt` — Python packages required to run the notebook.
 
 ---
@@ -36,7 +36,7 @@ Documentation within this notebook was improved and additional explanatory comme
 * Load dataset_part_1.csv,
 * Inspect basic statistics and counts,
 * Create a binary Class label from Outcome,
-* Save the processed data to dataset_part_3.csv.
+* Save the processed data to dataset_part_2.csv.
 
 ## Notes & reproducibility
 
