@@ -35,4 +35,4 @@ Documentation within this notebook was improved and additional explanatory comme
 
 ## Notes & reproducibility
 
-- If using the dataset locally, ensure `spacex_launch_dash.csv` is in the same folder or update the path accordingly.
+- Ensure `spacex_launch_dash.csv` is in the same folder or update the path accordingly.
