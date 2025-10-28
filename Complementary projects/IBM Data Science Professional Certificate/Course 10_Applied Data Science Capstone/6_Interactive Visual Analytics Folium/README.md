@@ -9,7 +9,7 @@ Documentation within this notebook was improved and additional explanatory comme
 ---
 
 ## Files in this folder
-- `Interactive_Visual_Analytics_Folium.ipynb` — Notebook (original code preserved; documentation added).  
+- `6_Interactive_Visual_Analytics_Folium.ipynb` — Notebook (original code preserved; documentation added).  
 - `requirements.txt` — Python packages required to run the notebook.  
 
 ---
@@ -28,7 +28,7 @@ Documentation within this notebook was improved and additional explanatory comme
 
 3. Start Jupyter Notebook:
 
-`jupyter notebook 3_Data_Wrangling.ipynb`
+`jupyter notebook 6_Interactive_Visual_Analytics_Folium.ipynb`
 
 4. Run cells top-to-bottom.
 
