@@ -18,7 +18,6 @@ CV Studio is a fast, easy, and collaborative open source image annotation tool f
 ## Files in this folder
 - `CNN_Classification_Pytorch.ipynb` — Notebook.  
 - `requirements.txt` — Python packages required to run the notebook.
-- `Data/` - Folder with the images used for training and testing.
 - `Test/` - Folder with the results of the test.
 
 ---
