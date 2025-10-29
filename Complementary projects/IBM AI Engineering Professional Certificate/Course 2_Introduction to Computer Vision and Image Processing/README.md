@@ -36,7 +36,7 @@ CV Studio is a fast, easy, and collaborative open source image annotation tool f
 
 3. Start Jupyter Notebook:
 
-`jupyter notebook 8_Predictive_Analysis.ipynb`
+`jupyter notebook CNN_Classification_Pytorch.ipynb`
 
 4. Run cells top-to-bottom. GPU is recommended for training.
 
