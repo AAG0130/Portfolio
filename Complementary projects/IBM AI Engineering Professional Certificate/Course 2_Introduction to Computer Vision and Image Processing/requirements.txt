@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+pillow
+tqdm
+ipywidgets
+skillsnetwork
+ibm-boto3
+boto3
+botocore
+opencv-python
+scikit-learn
