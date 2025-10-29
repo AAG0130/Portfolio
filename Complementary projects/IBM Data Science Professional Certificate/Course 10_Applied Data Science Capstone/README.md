@@ -33,14 +33,14 @@ Documentation within these notebooks was improved, and additional explanatory co
 
 ## Files in this folder
 
-- `1_Data Collection API\`
-- `2_Web Scraping\` 
-- `3_Data Wrangling\`
-- `4_EDA SQL\`
-- `5_EDA Data Visualization\`
-- `6_Interactive Visual Analytics Folium\`
-- `7_Interactive Visual Analytics Plotly\`
-- `8_Predictive Analysis\`
+- `1_Data Collection API/`
+- `2_Web Scraping/` 
+- `3_Data Wrangling/`
+- `4_EDA SQL/`
+- `5_EDA Data Visualization/`
+- `6_Interactive Visual Analytics Folium/`
+- `7_Interactive Visual Analytics Plotly/`
+- `8_Predictive Analysis/`
 - `0_Final Presentation_Alejandro Arango.pdf`
 
 Each of these folders contains a `README.md` and the necessary files for execution.
