@@ -9,7 +9,7 @@ Documentation within this notebook was improved and additional explanatory comme
 ---
 
 ## Files in this folder
-- `Waste_Products_Classifier.ipynb` — Notebook.  
+- `Waste_Product_Classifier.ipynb` — Notebook.  
 - `requirements.txt` — Python packages required to run the notebook.  
 
 ---
@@ -28,7 +28,7 @@ Documentation within this notebook was improved and additional explanatory comme
 
 3. Start Jupyter Notebook:
 
-`jupyter notebook Waste_Products_Classifier.ipynb`
+`jupyter notebook Waste_Product_Classifier.ipynb`
 
 4. Run cells top-to-bottom.
 
