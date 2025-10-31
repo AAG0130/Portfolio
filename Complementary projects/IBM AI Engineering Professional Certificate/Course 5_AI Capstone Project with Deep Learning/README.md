@@ -1,4 +1,4 @@
-# **Crack Detection in Buildings**
+# **Concrete Crack Image Classification**
 
 ## Project background and context
 Crack detection is important for structural health monitoring and inspection of buildings. Therefore, if we can determine if the concrete images have cracks, preventive action can be taken. 
