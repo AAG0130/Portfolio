@@ -9,7 +9,7 @@ Documentation within this notebook was improved and additional explanatory comme
 ---
 
 ## Files in this folder
-- `Data_Preparation.ipynb` — Notebook with data-prep code (original pipeline preserved; docs added).  
+- `Data_Loading.ipynb` — Notebook with data-prep code (original pipeline preserved; docs added).  
 - `requirements.txt` — Python packages required to run the notebook.  
 
 ---
@@ -28,12 +28,10 @@ Documentation within this notebook was improved and additional explanatory comme
 
 3. Start Jupyter Notebook:
 
-`jupyter notebook Data_Preparation.ipynb`
+`jupyter notebook Data_Loading.ipynb`
 
 4. Run cells top-to-bottom. Verify that `Negative/` and `Positive/` directories exist and contain images.
 
-**Note:** The cell that runs `await skillsnetwork.prepare(...)` requires a notebook environment that supports `await`. If your environment does not support `await`, run `skillsnetwork.prepare(...)` without `await` or call it inside an asyncio loop.
-
 ## Notes & reproducibility
 
-- If you plan to load all images into memory, ensure enough RAM; otherwise use generators or on-disk batching.
+- If you plan to load all images into memory, ensure enough RAM; otherwise, use generators or on-disk batching.
