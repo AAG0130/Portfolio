@@ -9,7 +9,7 @@ Documentation within this notebook was improved and additional explanatory comme
 ---
 
 ## Files in this folder
-- `Data_Loading.ipynb` — Notebook with data-prep code (original pipeline preserved; docs added).  
+- `Data_Loading.ipynb` — Notebook.  
 - `requirements.txt` — Python packages required to run the notebook.  
 
 ---
