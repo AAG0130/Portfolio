@@ -1,4 +1,4 @@
-# Part 1: Concrete Crack Image Classification — Data preparation
+# Part 1: Concrete Crack Image Classification — Data loading
 
 ## Project summary 
 This notebook downloads a dataset of concrete crack images, inspects and loads example negative/positive images and prepares lists with file paths for downstream processing. It demonstrates image I/O with PIL/Matplotlib and basic filesystem manipulations for dataset exploration.
