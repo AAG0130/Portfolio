@@ -11,7 +11,6 @@ Documentation within this notebook was improved and additional explanatory comme
 ## Files in this folder
 - `Model_Training.ipynb` — Notebook.  
 - `requirements.txt` — Python packages required to run the notebook.
-- `classifier_resnet_model.h5` — saved Keras model
 
 ---
 
