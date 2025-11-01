@@ -28,6 +28,12 @@ A compact Python implementation of the expanded "Rock, Paper, Scissors, Lizard, 
 
 ## How to run
 
+### Option A - CodeSkulptor (online)
+
+1. Access the code in CodeSkulptor with the following link: https://py2.codeskulptor.org/#user52_yo1WGR6Hlz_1.py
+
+### Option B - Local
+
 1. Save the code into a file, e.g. `Rock_paper_scissors_lizard_Spock.py`.
 2. Run it from the command line:
 
