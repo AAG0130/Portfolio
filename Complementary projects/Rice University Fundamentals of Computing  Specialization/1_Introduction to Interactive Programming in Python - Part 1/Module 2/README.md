@@ -17,7 +17,7 @@ A small interactive "Guess the Number" game implemented with the SimpleGUI-style
 ---
 
 ## Files
-- `guess_the_number.py` — Code.  
+- `guess_the_number.py` — Code
 
 ---
 
