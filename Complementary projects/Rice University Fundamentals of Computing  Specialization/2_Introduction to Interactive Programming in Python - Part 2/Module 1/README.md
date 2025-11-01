@@ -18,7 +18,7 @@ A small interactive implementation of the classic Memory (Concentration) card ga
 ---
 
 ## Files
-- `Memory.py` — (suggested) Python script containing the code.
+- `Memory.py` — Code
 
 ---
 
