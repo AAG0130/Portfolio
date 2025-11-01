@@ -27,6 +27,8 @@ A small interactive "Guess the Number" game implemented with the SimpleGUI-style
 
 **Note:** Cannot be run locally due to the `simplegui` library. The original `simplegui` API runs in the browser on CodeSkulptor.
 
+---
+
 ## How it works
 
 1. `new_game()` initializes the secret number (random within the selected range) and sets the allowed number of guesses (`n`) depending on range.
