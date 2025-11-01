@@ -14,7 +14,7 @@ Projects developed during online courses and self-learning in Data Science, AI, 
 
 #### IBM Data Science Professional Certificate
 
-1. **Historical Stock Price and Revenue Analysis - Tesla & GameStop:**
+1. [**Historical Stock Price and Revenue Analysis - Tesla & GameStop**](https://github.com/AAG0130/Portfolio/tree/main/Complementary%20projects/IBM%20Data%20Science%20Professional%20Certificate/Course%205_Python%20Project%20for%20Data%20Science)
    
    ./Complementary projects/IBM Data Science Professional Certificate/Course 5_Python Project for Data Science
    
