@@ -35,7 +35,7 @@ A compact Python implementation of the expanded "Rock, Paper, Scissors, Lizard, 
 ### Option B - Local
 
 1. Save the code into a file, e.g. `Rock_paper_scissors_lizard_Spock.py`.
-2. Run it from the command line:
+2. Run the script from the command line:
 
 `python Rock_paper_scissors_lizard_Spock.py`
 
