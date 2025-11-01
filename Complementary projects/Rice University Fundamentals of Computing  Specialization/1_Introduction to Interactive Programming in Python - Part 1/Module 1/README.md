@@ -17,7 +17,7 @@ A compact Python implementation of the expanded "Rock, Paper, Scissors, Lizard, 
 ---
 
 ## Files
-- `Rock_paper_scissors_lizard_Spock.py` — Code.
+- `Rock_paper_scissors_lizard_Spock.py` — Code
 
 ---
 
