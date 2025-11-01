@@ -64,6 +64,39 @@ Projects developed during online courses and self-learning in Data Science, AI, 
    
    ./Complementary projects/IBM AI Engineering Professional Certificate/Course 5_AI Capstone Project with Deep Learning
 
-**Contact:** arangogiraldo.alejandro@gmail.com 
+#### Rice University Fundamentals of Computing Specialization
+
+1. **Rock — Paper — Scissors — Lizard — Spock (RPSLS):**
+
+   ./Complementary projects/Rice University Fundamentals of Computing Specialization/1_Introduction to Interactive Programming in Python - Part 1/Module 1
+
+2. **Guess the Number — SimpleGUI:**
+
+   ./Complementary projects/Rice University Fundamentals of Computing Specialization/1_Introduction to Interactive Programming in Python - Part 1/Module 2
+
+3. **Stopwatch Game — SimpleGUI:**
+
+   ./Complementary projects/Rice University Fundamentals of Computing Specialization/1_Introduction to Interactive Programming in Python - Part 1/Module 3
+
+4. **Classic Pong - SimpleGUI:**
+
+   ./Complementary projects/Rice University Fundamentals of Computing Specialization/1_Introduction to Interactive Programming in Python - Part 1/Module 4
+
+5. **Memory (Concentration) — SimpleGUI:**
+
+   ./Complementary projects/Rice University Fundamentals of Computing Specialization/1_Introduction to Interactive Programming in Python - Part 2/Module 1
+
+6. **Blackjack - SimpleGUI:**
+
+   ./Complementary projects/Rice University Fundamentals of Computing Specialization/1_Introduction to Interactive Programming in Python - Part 2/Module 2
+
+7. **RiceRocks / Spaceship (Asteroids) — SimpleGUI:**
+
+   ./Complementary projects/Rice University Fundamentals of Computing Specialization/1_Introduction to Interactive Programming in Python - Part 2/Module 3
+
+**Contact:** 
+
+* arangogiraldo.alejandro@gmail.com
+* aarangog2@eafit.edu.co
 
 **LinkedIn:** https://www.linkedin.com/in/alejandro-arango-giraldo/
