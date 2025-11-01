@@ -49,7 +49,9 @@ Player wins!`
 Computer chooses paper
 Computer wins!`
 
-## How it works (brief)
+---
+
+## How it works
 
 1. `name_to_number(name)` — maps a choice string to an integer:
   * 0: rock
