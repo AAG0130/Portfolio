@@ -45,4 +45,6 @@ Projects developed during online courses and self-learning in Data Science, AI, 
 * arangogiraldo.alejandro@gmail.com
 * aarangog2@eafit.edu.co
 
-**LinkedIn:** https://www.linkedin.com/in/alejandro-arango-giraldo/
+**LinkedIn:** 
+
+https://www.linkedin.com/in/alejandro-arango-giraldo/
