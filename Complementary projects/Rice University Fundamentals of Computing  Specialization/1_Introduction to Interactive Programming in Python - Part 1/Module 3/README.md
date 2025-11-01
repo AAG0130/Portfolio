@@ -2,7 +2,8 @@
 
 # Stopwatch Game — SimpleGUI
 
-**Short description**  
+**Short description:**  
+
 A small interactive stopwatch game implemented using the SimpleGUI-style API. The objective is to stop the timer on whole seconds (i.e., when the tenths-of-second counter ends in zero). The GUI shows the elapsed time in `A:BC.D` format and a score `wins/tries` that increments when the player stops the timer on a whole second.
 
 ---
