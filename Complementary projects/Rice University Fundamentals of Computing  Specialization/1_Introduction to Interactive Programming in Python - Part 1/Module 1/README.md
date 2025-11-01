@@ -2,7 +2,8 @@
 
 # Rock — Paper — Scissors — Lizard — Spock (RPSLS)
 
-**Short description**  
+**Short description:**  
+
 A compact Python implementation of the expanded "Rock, Paper, Scissors, Lizard, Spock" game. The program maps each choice to a number, generates a random computer choice, compares the two using modular arithmetic, and prints the winner for several example rounds.
 
 ---
