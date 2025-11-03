@@ -25,3 +25,8 @@ Automate the IFRS 16 compliance process within Bancolombia’s supplier invoice 
 7. Conduct functional testing, document the code, and create a user guide.
 8. Ensure the project complies with corporate standards and formalize the solution as an EUC (End User Computing) tool.
 
+---
+
+## Files in this folder
+
+- **`NIIF16 Process Automation.pdf`**: Full project report.
