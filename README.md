@@ -9,6 +9,33 @@
 ### Academic Projects:
 Projects developed at Universidad EAFIT as part of my Mechanical Engineering degree with a Data Science emphasis.
 
+#### Data Science Emphasis:
+1. Integrative Project - 
+
+#### Mechanics & Robotics:
+
+1. Automatic Control of Processes -
+2. Automatic Control of Processes -
+3. Machine Designs 1 -
+4. Mechanisms - 
+
+#### Computer Simulation:
+
+1. Numerical Processes -
+2. Finite Element Methods -
+
+#### Manufacturing:
+
+1. Manufacturing Processes -
+2. Materials -
+
+#### Design of Applied Engineering Proposals:
+
+1. Draft Project -
+2. Methodic Design - 
+
+#### 
+
 ### Complementary Projects:
 Projects developed during online courses and self-learning in Data Science, AI, ML, and Computing.
 
@@ -39,6 +66,12 @@ Projects developed during online courses and self-learning in Data Science, AI, 
 5. [**Memory (Concentration) — SimpleGUI**](https://github.com/AAG0130/Portfolio/tree/main/Complementary%20projects/Rice%20University%20Fundamentals%20of%20Computing%20%20Specialization/2_Introduction%20to%20Interactive%20Programming%20in%20Python%20-%20Part%202/Module%201)
 6. [**Blackjack - SimpleGUI**](https://github.com/AAG0130/Portfolio/tree/main/Complementary%20projects/Rice%20University%20Fundamentals%20of%20Computing%20%20Specialization/2_Introduction%20to%20Interactive%20Programming%20in%20Python%20-%20Part%202/Module%202)
 7. [**RiceRocks / Spaceship (Asteroids) — SimpleGUI**](https://github.com/AAG0130/Portfolio/tree/main/Complementary%20projects/Rice%20University%20Fundamentals%20of%20Computing%20%20Specialization/2_Introduction%20to%20Interactive%20Programming%20in%20Python%20-%20Part%202/Module%203)
+
+### Professional Projects:
+Open access projects developed in a professional context.
+
+1. NIIF16 Process Automation
+2. Book Data and Amazon Reviews Analysis - Technical Application Test
 
 **Contact:** 
 
