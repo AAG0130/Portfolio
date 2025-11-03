@@ -1,4 +1,4 @@
-# 11-bar 2-degree-of-freedom CNC router for soft materials
+# 11-bar 2-degree-of-freedom CNC Router for Soft Materials
 
 ## Metadata
 - **Subject:** IM0240 - Machine Designs 1
