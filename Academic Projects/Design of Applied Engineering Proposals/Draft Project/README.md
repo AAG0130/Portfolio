@@ -1,4 +1,4 @@
-# Implementation of a Cloud-Based Technology Management Platform Using Data Analytics to Increase the Productivity of Railway Systems
+# Proposal for an Implementation of a Cloud-Based Technology Management Platform Using Data Analytics to Increase the Productivity of Railway Systems
 
 ## Metadata
 - **Subject:** IM0244 - Draft Project
@@ -23,7 +23,7 @@ The project aims to enhance operational efficiency, transparency, and collaborat
 
 **Important Notice:** 
 
-This project was developed within the context of the course; therefore, the figures and associations with other companies mentioned in the document are solely academic exercises and do not represent an official source of information.
+This is a project proposal that was developed within the context of the course; therefore, it was not implemented in a real-world scenario, and the figures and associations with other companies mentioned in the document are solely academic exercises and do not represent an official source of information. 
 
 ---
 
