@@ -26,7 +26,6 @@ This project is part of the 2025-1 technical assessment test for the Data Analys
     - **`best_books.py`**: Identifies the top-rated books.
   - **`main.py`**: Main script that runs the full project workflow.
   - **`requirements.txt`**: List of required dependencies.
-  - **`.env`**: Configuration file defining data and output paths.
   - **`report.md`**: Documentation and findings for part 2 of the test.
   - **`visualizations/`**: Folder with the graphs generated.
 
