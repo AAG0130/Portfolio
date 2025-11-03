@@ -23,3 +23,5 @@ The project aims to simulate injection molding, casting, and deep drawing proces
 - **`Final Report.pdf`**: Full project report.
 - **`Parts/`**: Contains the three parts used in the project.
 - **`Simulations/`**: Contains the three simulations performed in the project.
+
+**Note:** The Mold simulation could not be loaded due to the size limits of GitHub.
