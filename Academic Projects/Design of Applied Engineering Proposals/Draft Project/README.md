@@ -17,5 +17,5 @@
 
 
 
-**Important Notice:** This project was developed in the context of the course; therefore, the partnerships with other companies mentioned in the document are solely academic exercises and do not represent an official relationship between the university and the company.
+**Important Notice:** This project was developed within the context of the course; therefore, the figures and associations with other companies mentioned in the document are solely academic exercises and do not represent an official source of information.
 
