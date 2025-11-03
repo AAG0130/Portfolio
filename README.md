@@ -71,7 +71,7 @@ Projects developed during online courses and self-learning in Data Science, AI, 
 Open access projects developed in a professional context.
 
 1. NIIF16 Process Automation
-2. Book Data and Amazon Reviews Analysis - Technical Application Test
+2. Amazon Books and Reviews Data Analysis - Technical Assessment Test
 
 **Contact:** 
 
