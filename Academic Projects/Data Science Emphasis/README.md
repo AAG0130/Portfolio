@@ -47,8 +47,12 @@ To develop a machine learning model using WHO and UNESCO data from 2000–2016 t
     - **`final_model.pkl`**: Trained final model.
     - **`scaler.pkl`**: Scaler.
   - **`AWS_Deployment/`**:
-    - 
-
+    - **`Notebooks/`**:
+      - `Data prep.ipynb`
+      - `EDA.ipynb`
+      - `Train Model.ipynb`
+      - `Visualizaciones.ipynb`
+    -  **`Reproducibility_Guide.pdf`**: Guide for reproducing the project through the AWS web interface.
 
 ---
 
