@@ -41,10 +41,14 @@ To develop a machine learning model using WHO and UNESCO data from 2000–2016 t
 - **`src/`**: Directory containing the project modules:
   - **`Integrative_Project.ipynb`**: Notebook.
   - **`Local_Deployment.ipynb`**: Deployment with tkinter.
-  - **`final_model.pkl`**: Trained final model.
-  - **`scaler.pkl`**: Scaler.
   - **`requirements.txt`**: List of required dependencies.
   - **`who_life_exp`**: Dataset.
+  - **`model_scaler.zip/`**:
+    - **`final_model.pkl`**: Trained final model.
+    - **`scaler.pkl`**: Scaler.
+  - **`AWS_Deployment/`**:
+    - 
+
 
 ---
 
