@@ -23,7 +23,7 @@ The project aims to enhance operational efficiency, transparency, and collaborat
 
 **Important Notice:** 
 
-This is a project proposal that was developed within the context of the course; therefore, it was not implemented in a real-world scenario, and the figures and associations with other companies mentioned in the document are solely academic exercises and do not represent an official source of information. 
+This is a project proposal that was developed within the context of the course; therefore, it was not implemented in a real-world scenario. Some of the figures are approximations, and associations with other companies mentioned in the document are solely academic exercises and do not represent an official source of information. 
 
 ---
 
