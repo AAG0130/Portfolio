@@ -10,7 +10,7 @@
 Projects developed at Universidad EAFIT as part of my Mechanical Engineering degree with a Data Science emphasis.
 
 #### Data Science Emphasis:
-1. Integrative Project - 
+1. Integrative Project - Life Expectancy Prediction
 
 #### Mechanics & Robotics:
 
