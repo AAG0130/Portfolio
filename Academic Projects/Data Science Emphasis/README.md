@@ -1,5 +1,16 @@
 # Integrative Project – Life Expectancy Prediction
 
+## Metadata
+- **Subjects:**
+  - ST1804 - Fundamentals in Data Sciences
+  - CM0936 - Algebra in Data Sciences
+  - EC1800 - Statistics in Analytics
+  - ST1801 - Storage and Information Recovery
+- **Semester:** 2025-1
+- **Authors:** Alejandro Arango Giraldo
+
+---
+
 ## Project summary
 
 This project aims to design and implement a predictive model to estimate a country’s life expectancy from socioeconomic, health, and demographic variables. Developed within the Data Science emphasis at Universidad EAFIT, it uses official data from the WHO and UNESCO covering 183 countries from 2000–2016. Following the CRISP-DM methodology, the project seeks to identify the most influential factors affecting longevity and provide evidence-based insights to inform public health policies, combining advanced exploratory analysis, feature selection, and predictive modeling to achieve minimal prediction error.
@@ -11,12 +22,12 @@ The dataset used can be accessed through the following link: https://www.kaggle.
 ## Context
 
 This project integrates the knowledge learned in the following subjects:
-* Modeling and Simulation
+* Modeling and Simulation IV
 * Applied Machine Learning
-* Fundamentals of Data Science
-* Algebra in Data Science
+* Fundamentals in Data Sciences
+* Algebra in Data Sciences
 * Statistics in Data Science
-* Information Storage and Retrieval
+* Storage and Information Recovery
 
 And it's the capstone project for the Data Science Emphasis of Universidad EAFIT.
 
