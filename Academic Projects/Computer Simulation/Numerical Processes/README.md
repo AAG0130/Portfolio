@@ -1,4 +1,4 @@
-# Numerical Methods and its Applications
+# Numerical Methods and their Applications
 
 ## Metadata
 - **Subject:** ST0241 - Numerical Processes
