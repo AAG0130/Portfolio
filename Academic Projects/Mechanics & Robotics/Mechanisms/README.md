@@ -35,7 +35,7 @@ Each analysis was developed independently using the following tools:
   - **`Numerical Analysis Simulation.xlsx`**: Numerical analysis simulation in Excel.
   - **`Crank_Slider.wm`**: Crank-slider model in Working Model.
   - **`Crank_Slider.m`**: Crank-slider calculations in Matlab.
- - **`Dimensional Synthesis/`**:
+- **`Dimensional Synthesis/`**:
   - **`Dimensional Synthesis.pdf`**: Dimensional Synthesis report.
   - **`Dimensional Synthesis Simulation.xlsx`**: Dimensional Synthesis simulation in Excel.
   - **`dimensional_synthesis_model.wm`**: Dimensional Synthesis model in Working Model.
