@@ -21,7 +21,9 @@ The solution involves implementing an **Asset Performance Management (APM)** pla
 
 The project aims to enhance operational efficiency, transparency, and collaboration across technical and administrative levels, bridging KPI-driven insights with business objectives. Over a **24-month period**, the initiative will deliver five key outcomes: two research documents, one asset management software, one management platform, and a software registration. Its successful implementation is expected to significantly contribute to **UN Sustainable Development Goals (SDGs) 7, 8, 9, 11, 12, and 13**, promoting sustainability, competitiveness, and technological advancement in urban transportation.
 
-**Important Notice:** This project was developed within the context of the course; therefore, the figures and associations with other companies mentioned in the document are solely academic exercises and do not represent an official source of information.
+**Important Notice:** 
+
+This project was developed within the context of the course; therefore, the figures and associations with other companies mentioned in the document are solely academic exercises and do not represent an official source of information.
 
 ---
 
