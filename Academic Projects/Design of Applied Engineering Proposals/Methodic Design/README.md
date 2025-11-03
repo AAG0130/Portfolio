@@ -1,9 +1,9 @@
 # Design of a Solid Waste Collection System in Rural Tributaries
 
 ## Metadata
-- **Subject:** IM0240 - Machine Designs 1
-- **Professor:** Juan Andres Gallego Sanchez - jgalleg5@eafit.edu.co
-- **Semester:** 2022-2
+- **Subject:** ID0231 - Methodic Design
+- **Professor:** Santiago Bravo Montoya - sabravo@eafit.edu.co
+- **Semester:** 2024-1
 - **Authors:** 
   - Daniel Hurtado López - dhurtadol@eafit.edu.co
   - Sebastián Duque Lotero - sduquel3@eafit.edu.co
