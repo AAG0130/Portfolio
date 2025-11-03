@@ -4,8 +4,7 @@
 - **Subject:** IM0238 - Finite Element Methods
 - **Professor:** Abraham Uriel Zapata Munera - uzapata@eafit.edu.co
 - **Semester:** 2023-1
-- **Authors:** 
-  - Alejandro Arango Giraldo - aarangog2@eafit.edu.co
+- **Author:** Alejandro Arango Giraldo - aarangog2@eafit.edu.co
 
 ---
 
