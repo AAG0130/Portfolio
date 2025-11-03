@@ -17,9 +17,9 @@ This project focuses on the **design and analysis of a four-bar crank-slider mec
 ## Context
 
 Each analysis was developed independently using the following tools:
-* MATLAB 9.12.0
-* Working Model 2D - Version 5.0.1.31
-* Excel
+* `MATLAB 9.12.0`
+* `Working Model 2D` - Version 5.0.1.31
+* `Excel`
 
 ---
 
