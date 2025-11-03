@@ -1,4 +1,4 @@
-# Automatic Control of Processes - Canned Peaches Production Line Simulation
+# Canned Peaches Production Line Simulation
 
 ## Metadata
 - **Subject:** IP0250 - Automatic Control of Processes
