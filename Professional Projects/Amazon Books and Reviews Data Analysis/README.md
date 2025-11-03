@@ -3,7 +3,8 @@
 ## Project summary
 This project analyzes a dataset of Amazon books and reviews using Natural Language Processing (NLP), Exploratory Data Analysis (EDA), and visualization techniques to extract meaningful insights. It also identifies the top books based on criteria such as number of reviews, average ratings, and overall sentiment.
 
-**Important notice:** 
+## Context
+
 This project is part of the 2025-1 technical assessment test for the Data Analyst role at Bancolombia's Logistics and Distribution Section. The information pertained to this project is public.
 
 ---
