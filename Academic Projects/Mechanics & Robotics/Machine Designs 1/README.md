@@ -52,3 +52,4 @@ Technical drawings of all parts required for manufacturing.
 - **`Conceptual Design.pdf`**: Full project conceptual design.
 - **`Technical Drawings.pdf`**: Full project technical drawings.
 - **`CNC.jpeg`**: Photo of the almost finished CNC.
+- **`Ensemble.STEP`**: CNC Assembly in SolidWorks (2022 Version).
