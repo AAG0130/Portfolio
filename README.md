@@ -14,25 +14,25 @@ Projects developed at Universidad EAFIT as part of my Mechanical Engineering deg
 
 #### Mechanics & Robotics:
 
-1. Automatic Control of Processes -
-2. Automatic Control of Processes -
-3. Machine Designs 1 -
-4. Mechanisms - 
+1. [**Automatic Control of Processes - Canned Peaches Production Line Simulation**](https://github.com/AAG0130/Portfolio/tree/main/Academic%20Projects/Mechanics%20%26%20Robotics/Automatic%20Control%20of%20Processes/Canned%20Peaches%20Production%20Line%20Simulation)
+2. [**Automatic Control of Processes - Continuous-Control Filament Extruder using Recycled PET**](https://github.com/AAG0130/Portfolio/tree/main/Academic%20Projects/Mechanics%20%26%20Robotics/Automatic%20Control%20of%20Processes/Continuous-Control%20Filament%20Extruder)
+3. [**Machine Designs 1 - 11-bar 2-degree-of-freedom CNC Router for Soft Materials**](https://github.com/AAG0130/Portfolio/blob/main/Academic%20Projects/Mechanics%20&%20Robotics/Machine%20Designs%201/README.md)
+4. [**Mechanisms - Design and Analysis of a four-bar crank-slider mechanism**](https://github.com/AAG0130/Portfolio/tree/main/Academic%20Projects/Mechanics%20%26%20Robotics/Mechanisms)
 
 #### Computer Simulation:
 
-1. Numerical Processes -
-2. Finite Element Methods -
+1. [**Numerical Processes - Numerical Methods and their Applications**](https://github.com/AAG0130/Portfolio/tree/main/Academic%20Projects/Computer%20Simulation/Numerical%20Processes)
+2. [**Finite Element Methods - Analysis and Design of a Mechanical System using Finite Element Methods**](https://github.com/AAG0130/Portfolio/tree/main/Academic%20Projects/Computer%20Simulation/Finite%20Element%20Methods)
 
 #### Manufacturing:
 
-1. Manufacturing Processes -
-2. Materials -
+1. [**Manufacturing Processes - Simulation of Injection Molding, Casting, and Deep Drawing Processes with ALTAIR**](https://github.com/AAG0130/Portfolio/tree/main/Academic%20Projects/Manufacturing/Manufacturing%20Processes)
+2. [**Materials - Material Selection for the Redesign of a Thermos**](https://github.com/AAG0130/Portfolio/tree/main/Academic%20Projects/Manufacturing/Materials)
 
 #### Design of Applied Engineering Proposals:
 
-1. Draft Project -
-2. Methodic Design - 
+1. [**Draft Project - Proposal for an Implementation of a Cloud-Based Technology Management Platform Using Data Analytics to Increase the Productivity of Railway Systems**](https://github.com/AAG0130/Portfolio/tree/main/Academic%20Projects/Design%20of%20Applied%20Engineering%20Proposals/Draft%20Project)
+2. [**Methodic Design - Design of a Solid Waste Collection System in Rural Tributaries**](https://github.com/AAG0130/Portfolio/tree/main/Academic%20Projects/Design%20of%20Applied%20Engineering%20Proposals/Methodic%20Design)
 
 #### 
 
@@ -70,8 +70,8 @@ Projects developed during online courses and self-learning in Data Science, AI, 
 ### Professional Projects:
 Open access projects developed in a professional context.
 
-1. NIIF16 Process Automation
-2. Amazon Books and Reviews Data Analysis - Technical Assessment Test
+1. [**NIIF16 Process Automation**](https://github.com/AAG0130/Portfolio/tree/main/Professional%20Projects/NIIF16%20Process%20Automation)
+2. [**Amazon Books and Reviews Data Analysis - Technical Assessment Test**](https://github.com/AAG0130/Portfolio/tree/main/Professional%20Projects/Amazon%20Books%20and%20Reviews%20Data%20Analysis)
 
 **Contact:** 
 
