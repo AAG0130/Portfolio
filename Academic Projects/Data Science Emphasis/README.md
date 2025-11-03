@@ -42,7 +42,7 @@ To develop a machine learning model using WHO and UNESCO data from 2000–2016 t
   - **`Integrative_Project.ipynb`**: Notebook.
   - **`Local_Deployment.ipynb`**: Deployment with tkinter.
   - **`requirements.txt`**: List of required dependencies.
-  - **`who_life_exp`**: Dataset.
+  - **`who_life_exp.csv`**: Dataset.
   - **`model_scaler.zip/`**:
     - **`final_model.pkl`**: Trained final model.
     - **`scaler.pkl`**: Scaler.
@@ -69,3 +69,6 @@ To develop a machine learning model using WHO and UNESCO data from 2000–2016 t
    ```bash
    pip install -r requirements.txt
    ```
+4. Run cells top-to-bottom.
+
+  * Make sure to have the `who_life_exp.csv` in the root directory.
