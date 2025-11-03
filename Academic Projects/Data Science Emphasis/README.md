@@ -6,6 +6,11 @@
   - CM0936 - Algebra in Data Sciences
   - EC1800 - Statistics in Analytics
   - ST1801 - Storage and Information Recovery
+- **Professors:** (in order of subject)
+  - Juan Guillermo Lalinde Pulido - jlalinde@eafit.edu.co
+  - Nicolás Guarín Zapata - nguarinz@eafit.edu.co
+  - Manuel Danilo Echeverry Franco - mdecheverf@eafit.edu.co
+  - Edwin Nelson Montoya Munera - emontoya@eafit.edu.co
 - **Semester:** 2025-1
 - **Authors:** Alejandro Arango Giraldo
 
