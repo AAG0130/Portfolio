@@ -6,11 +6,15 @@
   - CM0936 - Algebra in Data Sciences
   - EC1800 - Statistics in Analytics
   - ST1801 - Storage and Information Recovery
+  - CM0080 - Modeling and Simulation IV
+  - ST1631 - Applied Machine Learning
 - **Professors:** (in order of subject)
   - Juan Guillermo Lalinde Pulido - jlalinde@eafit.edu.co
   - Nicolás Guarín Zapata - nguarinz@eafit.edu.co
   - Manuel Danilo Echeverry Franco - mdecheverf@eafit.edu.co
   - Edwin Nelson Montoya Munera - emontoya@eafit.edu.co
+  - Nicolas Prieto Escobar - nprieto@eafit.edu.co
+  - Yomin Estiven Jaramillo Munera - yejaramilm@eafit.edu.co
 - **Semester:** 2025-1
 - **Authors:** Alejandro Arango Giraldo
 
@@ -26,15 +30,7 @@ The dataset used can be accessed through the following link: https://www.kaggle.
 
 ## Context
 
-This project integrates the knowledge learned in the following subjects:
-* Modeling and Simulation IV
-* Applied Machine Learning
-* Fundamentals in Data Sciences
-* Algebra in Data Sciences
-* Statistics in Data Science
-* Storage and Information Recovery
-
-And it's the capstone project for the Data Science Emphasis of Universidad EAFIT.
+This project was developed both as part of the Modeling and Simulation IV and Applied Machine Learning subjects, and it's the capstone project for the Data Science Emphasis of Universidad EAFIT.
 
 ---
 
